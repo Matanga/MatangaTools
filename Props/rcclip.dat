@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<scene rcnodeid="32">
+    <node id="{c2cd0860-e670-42c8-a89c-31f9e95f00d3}" on="1" baseClass="Object" class="Segment" name="Box003" collapsed="0" x="-528.5" y="300.833"/>
+</scene>

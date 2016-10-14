@@ -397,7 +397,7 @@ struct PropImporterV2
 		)
 		else
 		(
-			destrotDialog unInst
+			DestroyDialog unInst
 			unInst=undefined
 		)
 		
